@@ -4,160 +4,19 @@
             "id": 1,
             "name": "Make It Obvious",
             "keyWord": "Cue",
-            "quote": "Motivation is overrated, environment matters more",
-            "steps": [
-                {
-                    "id": 1,
-                    "instruction": "Fill out the Habits Scorecard. Write down your current habits to become aware of them"
-
-                },
-                {
-                    "id": 2,
-                    "instruction": "Use implementation intentions: 'I will [BEHAVIOR] at [TIME] in [LOCATION]"
-
-                },
-                {
-                    "id": 3,
-                    "instruction": "Use habit tracking: 'After I [CURRENT HABIT], I will [NEW HABIT]"
-
-                },
-                {
-                    "id": 4,
-                    "instruction": "Design your environment. Make the cues of good Habits obvious and visible"
-
-                },
-                {
-                    "id": 5,
-                    "instruction": "Instruction 5 Make It Obvious"
-
-                },
-                {
-                    "id": 6,
-                    "instruction": "Instruction 6 Make It Obvious"
-
-                },
-                {
-                    "id": 7,
-                    "instruction": "Instruction 7 Make It Obvious"
-
-                },
-                {
-                    "id": 8,
-                    "instruction": "Instruction 8 Make It Obvious"
-
-                },
-                {
-                    "id": 9,
-                    "instruction": "Instruction 9 Make It Obvious"
-
-                }
-            ]
+            "quote": "Motivation is overrated, environment matters more"
         },
         {
             "id": 2,
             "name": "Make It Attractive",
             "keyWord": "Craving",
-            "quote": "Lorem ipsum dolo",
-            "steps": [
-                {
-                    "id": 1,
-                    "instruction": "Instruction 1 Make It Attractive"
-
-                },
-                {
-                    "id": 2,
-                    "instruction": "Instruction 2 Make It Attractive"
-
-                },
-                {
-                    "id": 3,
-                    "instruction": "Instruction 3 Make It Attractive"
-
-                },
-                {
-                    "id": 4,
-                    "instruction": "Instruction 4 Make It Attractive"
-
-                },
-                {
-                    "id": 5,
-                    "instruction": "Instruction 5 Make It Attractive"
-
-                },
-                {
-                    "id": 6,
-                    "instruction": "Instruction 6 Make It Attractive"
-
-                },
-                {
-                    "id": 7,
-                    "instruction": "Instruction 7 Make It Attractive"
-
-                },
-                {
-                    "id": 8,
-                    "instruction": "Instruction 8 Make It Attractive"
-
-                },
-                {
-                    "id": 9,
-                    "instruction": "Instruction 9 Make It Attractive"
-
-                }
-            ]
+            "quote": "Lorem ipsum dolo"
         },
         {
             "id": 3,
             "name": "Make It Easy",
             "keyWord": "Response",
-            "quote": "Lorem ipsum dolo",
-            "steps": [
-                {
-                    "id": 1,
-                    "instruction": "Instruction 1 Make It Easy"
-
-                },
-                {
-                    "id": 2,
-                    "instruction": "Instruction 2 Make It Easy"
-
-                },
-                {
-                    "id": 3,
-                    "instruction": "Instruction 3 Make It Easy"
-
-                },
-                {
-                    "id": 4,
-                    "instruction": "Instruction 4 Make It Easy"
-
-                },
-                {
-                    "id": 5,
-                    "instruction": "Instruction 5 Make It Easy"
-
-                },
-                {
-                    "id": 6,
-                    "instruction": "Instruction 6 Make It Easy"
-
-                },
-                {
-                    "id": 7,
-                    "instruction": "Instruction 7 Make It Easy"
-
-                },
-                {
-                    "id": 8,
-                    "instruction": "Instruction 8 Make It Easy"
-
-                },
-                {
-                    "id": 9,
-                    "instruction": "Instruction 9 Make It Easy"
-
-                }
-            ]
+            "quote": "Lorem ipsum dolo"
         },
         {
             "id": 4,
@@ -211,6 +70,170 @@
 
                 }
             ]
+        }
+    ],
+    "lawSteps": [
+        {
+            "id": 1,
+            "lawId": 1,
+            "instruction": "Fill out the Habits Scorecard. Write down your current habits to become aware of them"
+
+        },
+        {
+            "id": 2,
+            "lawId": 1,
+            "instruction": "Use implementation intentions: 'I will [BEHAVIOR] at [TIME] in [LOCATION]"
+
+        },
+        {
+            "id": 3,
+            "lawId": 1,
+            "instruction": "Use habit tracking: 'After I [CURRENT HABIT], I will [NEW HABIT]"
+
+        },
+        {
+            "id": 4,
+            "lawId": 1,
+            "instruction": "Design your environment. Make the cues of good Habits obvious and visible"
+
+        },
+        {
+            "id": 5,
+            "lawId": 1,
+            "instruction": "Instruction 5 Make It Obvious"
+
+        },
+        {
+            "id": 6,
+            "lawId": 1,
+            "instruction": "Instruction 6 Make It Obvious"
+
+        },
+        {
+            "id": 7,
+            "lawId": 1,
+            "instruction": "Instruction 7 Make It Obvious"
+
+        },
+        {
+            "id": 8,
+            "lawId": 1,
+            "instruction": "Instruction 8 Make It Obvious"
+
+        },
+        {
+            "id": 9,
+            "lawId": 1,
+            "instruction": "Instruction 9 Make It Obvious"
+
+        },
+        {
+            "id": 10,
+            "lawId": 2,
+            "instruction": "Instruction 1 Make It Attractive"
+
+        },
+        {
+            "id": 11,
+            "lawId": 2,
+            "instruction": "Instruction 2 Make It Attractive"
+
+        },
+        {
+            "id": 12,
+            "lawId": 2,
+            "instruction": "Instruction 3 Make It Attractive"
+
+        },
+        {
+            "id": 13,
+            "lawId": 2,
+            "instruction": "Instruction 4 Make It Attractive"
+
+        },
+        {
+            "id": 14,
+            "lawId": 2,
+            "instruction": "Instruction 5 Make It Attractive"
+
+        },
+        {
+            "id": 15,
+            "lawId": 2,
+            "instruction": "Instruction 6 Make It Attractive"
+
+        },
+        {
+            "id": 16,
+            "lawId": 2,
+            "instruction": "Instruction 7 Make It Attractive"
+
+        },
+        {
+            "id": 17,
+            "lawId": 2,
+            "instruction": "Instruction 8 Make It Attractive"
+
+        },
+        {
+            "id": 18,
+            "lawId": 2,
+            "instruction": "Instruction 9 Make It Attractive"
+
+        },
+        {
+            "id": 19,
+            "lawId": 3,
+            "instruction": "Instruction 1 Make It Easy"
+
+        },
+        {
+            "id": 20,
+            "lawId": 3,
+            "instruction": "Instruction 2 Make It Easy"
+
+        },
+        {
+            "id": 21,
+            "lawId": 3,
+            "instruction": "Instruction 3 Make It Easy"
+
+        },
+        {
+            "id": 22,
+            "lawId": 3,
+            "instruction": "Instruction 4 Make It Easy"
+
+        },
+        {
+            "id": 23,
+            "lawId": 3,
+            "instruction": "Instruction 5 Make It Easy"
+
+        },
+        {
+            "id": 24,
+            "lawId": 3,
+            "instruction": "Instruction 6 Make It Easy"
+
+        },
+        {
+            "id": 25,
+            "lawId": 3,
+            "instruction": "Instruction 7 Make It Easy"
+
+        },
+        {
+            "id": 26,
+            "lawId": 3,
+            "instruction": "Instruction 8 Make It Easy"
+
+        },
+        {
+            "id": 27,
+            "lawId": 3,
+            "instruction": "Instruction 9 Make It Easy"
+
         }
     ]
 }
