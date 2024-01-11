@@ -12,33 +12,8 @@
 import { defineComponent } from 'vue'
 import LawElement from '../../components/Law/LawElement.vue'
 import type { HabitLaw } from '@/ts/interfaces'
-
-const laws: Array<HabitLaw> = [
-  {
-    id: 1,
-    name: 'Make It Obvious',
-    keyWord: 'Cue',
-    quote: 'Motivation is overrated, environment matters more'
-  },
-  {
-    id: 2,
-    name: 'Make It Attractive',
-    keyWord: 'Craving',
-    quote: 'Lorem ipsum dolo'
-  },
-  {
-    id: 3,
-    name: 'Make It Easy',
-    keyWord: 'Response',
-    quote: 'Lorem ipsum dolo'
-  },
-  {
-    id: 4,
-    name: 'Make It Satisfying',
-    keyWord: 'Reward',
-    quote: 'Lorem ipsum dolo'
-  }
-]
+// @ts-ignore
+import LawService from '@/services/LawService.js'
 
 export default defineComponent({
   components: {
@@ -46,8 +21,19 @@ export default defineComponent({
   },
   data() {
     return {
-      laws: laws
+      laws: [] as Array<HabitLaw>
     }
+  },
+  created() {
+    LawService.getLaws()
+      .then(
+        (response: { data: { id: number; name: string; keyWord: string; quote: string }[] }) => {
+          this.laws = response.data
+        }
+      )
+      .catch((error: any) => {
+        console.log(error)
+      })
   }
 })
 </script>

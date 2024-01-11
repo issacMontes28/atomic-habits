@@ -1,5 +1,5 @@
 <template>
-  <a href="#" class="p-0">
+  <router-link :to="{ name: 'LawDetails', params: { id: law.id } }" class="p-0">
     <div class="h-5/6 p-6 mx-3.5 bg-white rounded-xl shadow-lg hover:bg-periwinkle-gray-50">
       <header class="text-xl font-mono font-bold">
         {{ `${law.id}.${law.name} (The ${law.keyWord})` }}
@@ -9,7 +9,7 @@
         <p class="text-l font-sans font-semibold">{{ law.quote }}</p>
       </div>
     </div>
-  </a>
+  </router-link>
 </template>
 <script lang="ts">
 import { defineComponent, type PropType } from 'vue'
