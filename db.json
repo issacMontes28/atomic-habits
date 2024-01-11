@@ -4,25 +4,213 @@
             "id": 1,
             "name": "Make It Obvious",
             "keyWord": "Cue",
-            "quote": "Motivation is overrated, environment matters more"
+            "quote": "Motivation is overrated, environment matters more",
+            "steps": [
+                {
+                    "id": 1,
+                    "instruction": "Fill out the Habits Scorecard. Write down your current habits to become aware of them"
+
+                },
+                {
+                    "id": 2,
+                    "instruction": "Use implementation intentions: 'I will [BEHAVIOR] at [TIME] in [LOCATION]"
+
+                },
+                {
+                    "id": 3,
+                    "instruction": "Use habit tracking: 'After I [CURRENT HABIT], I will [NEW HABIT]"
+
+                },
+                {
+                    "id": 4,
+                    "instruction": "Design your environment. Make the cues of good Habits obvious and visible"
+
+                },
+                {
+                    "id": 5,
+                    "instruction": "Instruction 5 Make It Obvious"
+
+                },
+                {
+                    "id": 6,
+                    "instruction": "Instruction 6 Make It Obvious"
+
+                },
+                {
+                    "id": 7,
+                    "instruction": "Instruction 7 Make It Obvious"
+
+                },
+                {
+                    "id": 8,
+                    "instruction": "Instruction 8 Make It Obvious"
+
+                },
+                {
+                    "id": 9,
+                    "instruction": "Instruction 9 Make It Obvious"
+
+                }
+            ]
         },
         {
             "id": 2,
             "name": "Make It Attractive",
             "keyWord": "Craving",
-            "quote": "Lorem ipsum dolo"
+            "quote": "Lorem ipsum dolo",
+            "steps": [
+                {
+                    "id": 1,
+                    "instruction": "Instruction 1 Make It Attractive"
+
+                },
+                {
+                    "id": 2,
+                    "instruction": "Instruction 2 Make It Attractive"
+
+                },
+                {
+                    "id": 3,
+                    "instruction": "Instruction 3 Make It Attractive"
+
+                },
+                {
+                    "id": 4,
+                    "instruction": "Instruction 4 Make It Attractive"
+
+                },
+                {
+                    "id": 5,
+                    "instruction": "Instruction 5 Make It Attractive"
+
+                },
+                {
+                    "id": 6,
+                    "instruction": "Instruction 6 Make It Attractive"
+
+                },
+                {
+                    "id": 7,
+                    "instruction": "Instruction 7 Make It Attractive"
+
+                },
+                {
+                    "id": 8,
+                    "instruction": "Instruction 8 Make It Attractive"
+
+                },
+                {
+                    "id": 9,
+                    "instruction": "Instruction 9 Make It Attractive"
+
+                }
+            ]
         },
         {
             "id": 3,
             "name": "Make It Easy",
             "keyWord": "Response",
-            "quote": "Lorem ipsum dolo"
+            "quote": "Lorem ipsum dolo",
+            "steps": [
+                {
+                    "id": 1,
+                    "instruction": "Instruction 1 Make It Easy"
+
+                },
+                {
+                    "id": 2,
+                    "instruction": "Instruction 2 Make It Easy"
+
+                },
+                {
+                    "id": 3,
+                    "instruction": "Instruction 3 Make It Easy"
+
+                },
+                {
+                    "id": 4,
+                    "instruction": "Instruction 4 Make It Easy"
+
+                },
+                {
+                    "id": 5,
+                    "instruction": "Instruction 5 Make It Easy"
+
+                },
+                {
+                    "id": 6,
+                    "instruction": "Instruction 6 Make It Easy"
+
+                },
+                {
+                    "id": 7,
+                    "instruction": "Instruction 7 Make It Easy"
+
+                },
+                {
+                    "id": 8,
+                    "instruction": "Instruction 8 Make It Easy"
+
+                },
+                {
+                    "id": 9,
+                    "instruction": "Instruction 9 Make It Easy"
+
+                }
+            ]
         },
         {
             "id": 4,
             "name": "Make It Satisfying",
             "keyWord": "Reward",
-            "quote": "Lorem ipsum dolo"
+            "quote": "Lorem ipsum dolo",
+            "steps": [
+                {
+                    "id": 1,
+                    "instruction": "Instruction 1 Make It Satisfying"
+
+                },
+                {
+                    "id": 2,
+                    "instruction": "Instruction 2 Make It Satisfying"
+
+                },
+                {
+                    "id": 3,
+                    "instruction": "Instruction 3 Make It Satisfying"
+
+                },
+                {
+                    "id": 4,
+                    "instruction": "Instruction 4 Make It Satisfying"
+
+                },
+                {
+                    "id": 5,
+                    "instruction": "Instruction 5 Make It Satisfying"
+
+                },
+                {
+                    "id": 6,
+                    "instruction": "Instruction 6 Make It Satisfying"
+
+                },
+                {
+                    "id": 7,
+                    "instruction": "Instruction 7 Make It Satisfying"
+
+                },
+                {
+                    "id": 8,
+                    "instruction": "Instruction 8 Make It Satisfying"
+
+                },
+                {
+                    "id": 9,
+                    "instruction": "Instruction 9 Make It Satisfying"
+
+                }
+            ]
         }
     ]
 }
