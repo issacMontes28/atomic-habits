@@ -204,42 +204,6 @@
             "lawId": 4,
             "instruction": "Instruction 3 Make It Satisfying"
 
-        },
-        {
-            "id": 31,
-            "lawId": 4,
-            "instruction": "Instruction 4 Make It Satisfying"
-
-        },
-        {
-            "id": 32,
-            "lawId": 4,
-            "instruction": "Instruction 5 Make It Satisfying"
-
-        },
-        {
-            "id": 33,
-            "lawId": 4,
-            "instruction": "Instruction 6 Make It Satisfying"
-
-        },
-        {
-            "id": 34,
-            "lawId": 4,
-            "instruction": "Instruction 7 Make It Satisfying"
-
-        },
-        {
-            "id": 35,
-            "lawId": 4,
-            "instruction": "Instruction 8 Make It Satisfying"
-
-        },
-        {
-            "id": 36,
-            "lawId": 4,
-            "instruction": "Instruction 9 Make It Satisfying"
-
         }
     ]
 }
