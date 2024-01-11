@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .mist-border-1 {
+    @apply border;
+    @apply border-solid;
+    @apply border-spring-wood-50;
+  }
+
+  .mist-border-2 {
+    @apply border-2;
+    @apply border-solid;
+    @apply border-spring-wood-50;
+  }
+}

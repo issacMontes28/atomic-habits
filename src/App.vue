@@ -6,4 +6,13 @@ import { RouterView } from 'vue-router'
   <RouterView />
 </template>
 
-<style scoped></style>
+<style>
+body {
+  background-image: linear-gradient(#e0dbc8, #f9f8f4, #ffffff);
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+}
+</style>
