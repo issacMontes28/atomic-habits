@@ -22,54 +22,7 @@
             "id": 4,
             "name": "Make It Satisfying",
             "keyWord": "Reward",
-            "quote": "Lorem ipsum dolo",
-            "steps": [
-                {
-                    "id": 1,
-                    "instruction": "Instruction 1 Make It Satisfying"
-
-                },
-                {
-                    "id": 2,
-                    "instruction": "Instruction 2 Make It Satisfying"
-
-                },
-                {
-                    "id": 3,
-                    "instruction": "Instruction 3 Make It Satisfying"
-
-                },
-                {
-                    "id": 4,
-                    "instruction": "Instruction 4 Make It Satisfying"
-
-                },
-                {
-                    "id": 5,
-                    "instruction": "Instruction 5 Make It Satisfying"
-
-                },
-                {
-                    "id": 6,
-                    "instruction": "Instruction 6 Make It Satisfying"
-
-                },
-                {
-                    "id": 7,
-                    "instruction": "Instruction 7 Make It Satisfying"
-
-                },
-                {
-                    "id": 8,
-                    "instruction": "Instruction 8 Make It Satisfying"
-
-                },
-                {
-                    "id": 9,
-                    "instruction": "Instruction 9 Make It Satisfying"
-
-                }
-            ]
+            "quote": "Lorem ipsum dolo"
         }
     ],
     "lawSteps": [
@@ -233,6 +186,59 @@
             "id": 27,
             "lawId": 3,
             "instruction": "Instruction 9 Make It Easy"
+
+        },
+        {
+            "id": 28,
+            "instruction": "Instruction 1 Make It Satisfying"
+
+        },
+        {
+            "id": 29,
+            "lawId": 4,
+            "instruction": "Instruction 2 Make It Satisfying"
+
+        },
+        {
+            "id": 30,
+            "lawId": 4,
+            "instruction": "Instruction 3 Make It Satisfying"
+
+        },
+        {
+            "id": 31,
+            "lawId": 4,
+            "instruction": "Instruction 4 Make It Satisfying"
+
+        },
+        {
+            "id": 32,
+            "lawId": 4,
+            "instruction": "Instruction 5 Make It Satisfying"
+
+        },
+        {
+            "id": 33,
+            "lawId": 4,
+            "instruction": "Instruction 6 Make It Satisfying"
+
+        },
+        {
+            "id": 34,
+            "lawId": 4,
+            "instruction": "Instruction 7 Make It Satisfying"
+
+        },
+        {
+            "id": 35,
+            "lawId": 4,
+            "instruction": "Instruction 8 Make It Satisfying"
+
+        },
+        {
+            "id": 36,
+            "lawId": 4,
+            "instruction": "Instruction 9 Make It Satisfying"
 
         }
     ]
