@@ -1,0 +1,28 @@
+{
+    "laws": [
+        {
+            "id": 1,
+            "name": "Make It Obvious",
+            "keyWord": "Cue",
+            "quote": "Motivation is overrated, environment matters more"
+        },
+        {
+            "id": 2,
+            "name": "Make It Attractive",
+            "keyWord": "Craving",
+            "quote": "Lorem ipsum dolo"
+        },
+        {
+            "id": 3,
+            "name": "Make It Easy",
+            "keyWord": "Response",
+            "quote": "Lorem ipsum dolo"
+        },
+        {
+            "id": 4,
+            "name": "Make It Satisfying",
+            "keyWord": "Reward",
+            "quote": "Lorem ipsum dolo"
+        }
+    ]
+}
