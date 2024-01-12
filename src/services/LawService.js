@@ -16,4 +16,7 @@ export default {
     getLaw(id) {
         return apiClient.get('/laws/' + id)
     },
+    getLawSteps(lawId) {
+        return apiClient.get('/lawSteps?lawId=' + lawId)
+    },
 }

@@ -4,3 +4,9 @@ export interface HabitLaw {
     keyWord: string;
     quote: string;
 }
+
+export interface LawStep {
+    id: number;
+    lawId: number;
+    instruction: string;
+}
