@@ -4,25 +4,25 @@
             "id": 1,
             "name": "Make It Obvious",
             "keyWord": "Cue",
-            "quote": "Motivation is overrated, environment matters more"
+            "quote": "Motivation is overrated, environment matters more."
         },
         {
             "id": 2,
             "name": "Make It Attractive",
             "keyWord": "Craving",
-            "quote": "Lorem ipsum dolo"
+            "quote": "Make your habbits irresistible and dopamine-driven. Always keep in mind the good results or reward that you'll have after a good habit."
         },
         {
             "id": 3,
             "name": "Make It Easy",
             "keyWord": "Response",
-            "quote": "Lorem ipsum dolo"
+            "quote": "Walk slowly but never backward. Standarize before you optimize, You can't improve a habit that does not exist."
         },
         {
             "id": 4,
             "name": "Make It Satisfying",
             "keyWord": "Reward",
-            "quote": "Lorem ipsum dolo"
+            "quote": "Make a habit obvious, attractive and easy will increase the odds you perform a behavior for the first time, but making it satisfying will increase the odds of repeat it next time."
         }
     ],
     "lawSteps": [
