@@ -16,7 +16,7 @@ export default {
     getLaw(id) {
         return apiClient.get('/laws/' + id)
     },
-    getLawSteps(lawId) {
-        return apiClient.get('/lawSteps?lawId=' + lawId)
+    getLawSteps(lawId, perPage, page) {
+        return apiClient.get('/lawSteps?lawId=' + lawId + '&_limit=' + perPage + '&_page=' + page)
     },
 }
