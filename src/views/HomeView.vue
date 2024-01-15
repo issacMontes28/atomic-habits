@@ -3,7 +3,7 @@ import LawList from './Laws/LawList.vue'
 </script>
 
 <template>
-  <main>
+  <main style="display: flex; flex-direction: column; align-content: center; align-items: center">
     <LawList></LawList>
   </main>
 </template>

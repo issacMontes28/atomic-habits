@@ -1,14 +1,10 @@
 <template>
-  <router-link :to="{ name: 'LawDetails', params: { id: law.id } }" class="p-0">
-    <div class="h-5/6 p-6 mx-3.5 bg-white rounded-xl shadow-lg hover:bg-periwinkle-gray-50">
-      <header class="text-xl font-mono font-bold">
-        {{ `${law.id}.${law.name} (The ${law.keyWord})` }}
-      </header>
-      <div class="flex flex-col">
-        <p class="text-xl font-mono font-bold">&#8220;</p>
-        <p class="text-l font-sans font-semibold">{{ law.quote }}</p>
-      </div>
-    </div>
+  <router-link :to="{ name: 'LawDetails', params: { id: law.id } }" class="p-1">
+    <header class="text-xl font-mono font-bold mb-3">
+      {{ `${law.id}.${law.name} (The ${law.keyWord})` }}
+    </header>
+    <p class="text-4xl font-mono font-bold inline">&#8220;</p>
+    <p class="text-base italic font-sans font-medium inline m-1">{{ law.quote }}</p>
   </router-link>
 </template>
 <script lang="ts">

@@ -1,9 +1,16 @@
 <template>
-  <section name="lawList" class="flex flex-row flex-wrap justify-center h-2/3">
-    <header class="flex w-full justify-center mb-5">
-      <h1 class="text-3xl font-mono font-bold">The Laws for Atomic Habits</h1>
-    </header>
-    <article v-for="aux in laws" :key="aux.id" class="w-1/2 mb-3 h-full">
+  <header class="flex w-full justify-center mb-5">
+    <h1 class="text-3xl font-mono font-bold">The Laws for Atomic Habits</h1>
+  </header>
+  <section
+    name="lawList"
+    class="grid grid-flow-row auto-rows-max grid-cols-2 gap-2 place-content-stretch h-48"
+  >
+    <article
+      v-for="aux in laws"
+      :key="aux.id"
+      class="p-6 mx-3.5 bg-white rounded-xl shadow-lg hover:bg-periwinkle-gray-50"
+    >
       <LawElement :law="aux"></LawElement>
     </article>
   </section>
